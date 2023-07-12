@@ -3,20 +3,20 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "parPolicyPseudoRootMgmtGroup": {
-            "value": "alz"
+            "value": "Demo-Hybrid Networking Connectivity Subscription Container"
         },
         "parPolicyAssignmentParameters": {
             "value": {
                 "ALZMonitorResourceGroupName": {
-                    "value": "rg-alz-monitor"
+                    "value": "VWANDemo"
                 },
                 "ALZMonitorResourceGroupTags": {
                     "value": {
-                        "Project": "alz-monitor"
+                        "Project": ""
                     }
                 },
                 "ALZMonitorResourceGroupLocation": {
-                    "value": "eastus"
+                    "value": "westcentralus"
                 }
             }
         },

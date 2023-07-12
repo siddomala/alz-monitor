@@ -9,12 +9,12 @@ permissions:
       contents: read
 
 env:
-  Location: "norwayeast"
-  ManagementGroupPrefix: "alz"
-  identityManagementGroup: "alz-platform-identity"
-  managementManagementGroup: "alz-platform-management"
-  connectivityManagementGroup: "alz-platform-connectivity"
-  LZManagementGroup: "alz-landing-zone"
+  Location: "westcentralus"
+  ManagementGroupPrefix: "Demo-Hybrid Networking Connectivity Subscription Container"
+  identityManagementGroup: "Demo-Hybrid Networking Connectivity Subscription Container"
+  managementManagementGroup: "Demo-Hybrid Networking Connectivity Subscription Container"
+  connectivityManagementGroup: "Demo-Hybrid Networking Connectivity Subscription Container"
+  LZManagementGroup: "Demo-Hybrid Networking Connectivity Subscription Container"
   
 jobs:
   deploy_job:

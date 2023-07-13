@@ -10,11 +10,11 @@ permissions:
 
 env:
   Location: "westcentralus"
-  ManagementGroupPrefix: "VirtualWANManagementGroup"
-  identityManagementGroup: "VirtualWANManagementGroup"
-  managementManagementGroup: "VirtualWANManagementGroup"
-  connectivityManagementGroup: "VirtualWANManagementGroup"
-  LZManagementGroup: "VirtualWANManagementGroup"
+  ManagementGroupPrefix: "72f988bf-86f1-41af-91ab-2d7cd011db47"
+  identityManagementGroup: "72f988bf-86f1-41af-91ab-2d7cd011db47"
+  managementManagementGroup: "72f988bf-86f1-41af-91ab-2d7cd011db47"
+  connectivityManagementGroup: "72f988bf-86f1-41af-91ab-2d7cd011db47"
+  LZManagementGroup: "72f988bf-86f1-41af-91ab-2d7cd011db47"
   
 jobs:
   deploy_job:

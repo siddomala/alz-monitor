@@ -10,11 +10,11 @@ permissions:
 
 env:
   Location: "westcentralus"
-  ManagementGroupPrefix: "Demo-Hybrid Networking Connectivity Subscription Container"
-  identityManagementGroup: "Demo-Hybrid Networking Connectivity Subscription Container"
-  managementManagementGroup: "Demo-Hybrid Networking Connectivity Subscription Container"
-  connectivityManagementGroup: "Demo-Hybrid Networking Connectivity Subscription Container"
-  LZManagementGroup: "Demo-Hybrid Networking Connectivity Subscription Container"
+  ManagementGroupPrefix: "b5386b38-8c31-694f-f62f-0d13d521f1f3"
+  identityManagementGroup: "b5386b38-8c31-694f-f62f-0d13d521f1f3"
+  managementManagementGroup: "b5386b38-8c31-694f-f62f-0d13d521f1f3"
+  connectivityManagementGroup: "b5386b38-8c31-694f-f62f-0d13d521f1f3"
+  LZManagementGroup: "b5386b38-8c31-694f-f62f-0d13d521f1f3"
   
 jobs:
   deploy_job:

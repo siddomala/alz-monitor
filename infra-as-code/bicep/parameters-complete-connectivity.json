@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "parPolicyPseudoRootMgmtGroup": {
-            "value": "Demo-Hybrid Networking Connectivity Subscription Container"
+            "value": "b5386b38-8c31-694f-f62f-0d13d521f1f3"
         },
         "parPolicyAssignmentParameters": {
             "value": {
